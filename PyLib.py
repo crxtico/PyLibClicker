@@ -15,7 +15,7 @@ auth_key = "AutoClickerByCRXTICO&7ASRL2shegHP4bK"
 os.system("cls")
 
 
-auth = input(f"{white}There was an error opening PyLib.py...\n\n")
+auth = input(f"{white}There was an error opening PyLib.exe...\n\n")
 if auth == auth_key:
 
     os.system("cls")
