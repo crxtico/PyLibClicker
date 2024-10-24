@@ -1,4 +1,4 @@
-I am posting this so that others can continue or modify it, as I currently have no further ideas.
+I am posting this so that others can continue or modify it, as I currently have no further ideas and at the moment its not that hard to find in a screenshare.
 
 To bypass detection, you should compile the .py file into a single .exe file using a tool like AutoPyToExe. Otherwise, a staff member could easily find the Python source code of the open file, leading to immediate detection.
 
